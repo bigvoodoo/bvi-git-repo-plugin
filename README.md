@@ -1,5 +1,5 @@
 # Big Voodoo Git Repo
-@bigvoodoo, @firejdl
+[@bigvoodoo](https://github.com/bigvoodoo), [@firejdl](https://github.com/firejdl), [@thatElectricFeel](https://github.com/thatElectricFeel)
 
 Ensures the Git repositories are kept current and up to date with uploads made within WordPress.
 

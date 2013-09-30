@@ -1,5 +1,5 @@
 === Big Voodoo Git Repo ===
-Contributors: bigvoodoo, firejdl
+Contributors: bigvoodoo, firejdl, geekmenina
 Tags: git, repository, devops
 Requires at least: 3.0
 Tested up to: 3.6.1
